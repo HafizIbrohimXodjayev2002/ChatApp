@@ -1,16 +1,26 @@
-# chatapp
+# ChatApp
 
-A new Flutter project.
+### In this app you can chat with your friend like group 
 
-## Getting Started
+#### Before you start you should Sign Up to application:   
+<a href="https://ibb.co/1bb6ZD6"><img src="https://i.ibb.co/kMM1KR1/photo-2021-09-04-22-36-24.jpg" alt="photo-2021-09-04-22-36-24" border="0" width="250"></a>
 
-This project is a starting point for a Flutter application.
+#### Sign Up page:
+<a href="https://ibb.co/QrtRCP5"><img src="https://i.ibb.co/Pw0n9cS/photo-2021-09-04-22-36-23-2.jpg" alt="photo-2021-09-04-22-36-23-2" border="0" width="250"></a>
+<a href="https://ibb.co/yykws2m"><img src="https://i.ibb.co/sw1037p/photo-2021-09-04-22-36-29.jpg" alt="photo-2021-09-04-22-36-29" border="0" width="250"></a>
 
-A few resources to get you started if this is your first Flutter project:
+#### Main Page:
+<a href="https://ibb.co/WD4Q893"><img src="https://i.ibb.co/5YgdpD9/photo-2021-09-04-22-36-23.jpg" alt="photo-2021-09-04-22-36-23" border="0" width="250"></a>
+<a href="https://ibb.co/Tw8yd2Y"><img src="https://i.ibb.co/Zf897XG/photo-2021-09-04-22-36-22.jpg" alt="photo-2021-09-04-22-36-22" border="0" width="250"></a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Packages which i use:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### cupertino_icons: ^1.0.2
+##### firebase_core: ^1.6.0
+##### firebase_auth: ^3.1.0
+##### firebase: ^9.0.1
+##### cloud_firestore: ^2.5.1
+##### flutter_spinkit: ^5.0.0
+##### comment_box: ^0.0.16
+##### animated_text_kit: ^4.2.1
+
